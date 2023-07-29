@@ -1,14 +1,49 @@
 # Carbon Privacy - policy
 
+**This Service is provided at no cost and is intended for use as is. This page is used to inform visitors regarding the bot's policies with the collection, use, and disclosure of a data if anyone decided to use my Service. If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. The data that we collect is used for providing and improving the Service. We will not use or share your information with anyone. The terms used in this Privacy Policy have the same meanings as in our Terms and Condition. unless otherwise defined in this Privacy Policy**
 
-- **We care a lot about privacy.**
-We are committed to creating spaces where people can come together and find a place to belong. Respecting user privacy is a key part of that mission.
+## By using Guardian you accept it's Privacy Policy and [discord tos](https://discord.com/terms) & [discord guidelines](https://discord.com/guidelines)
 
-- **We care about safety**
-Our dedicated Trust & Safety team works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services. 
+# What does it store?
 
-- **We care about abusing**
-if you abusing our bot then we can permanent blacklist you.
+- Server IDS for Server's Data(Selfroles , Antinuke , Giveaway , Welcome , Members Info)
+- data are stored & secured using AES Encryption standards.
 
-- **We care about discord server**
-don't give whitelist to non-trusted user, if you give him whitelist then he can nuke your discord server
+# Does it see our messages?
+
+- Bot checks your message, it contains blacklisted word or not for Automod, Anti-blacklist System
+
+# Who can access the server data?
+
+- Server Owner
+- Server Adminstrators
+
+# Following People Can Access all of the data
+
+- Bot Developers
+
+## Why do we store the data?
+
+### It stores -
+
+- Server ID to store other server data(autoroles, welcomer, selfrole, Giveaway , Welcome , Members Info, whitelisted data for antinuke)
+- Blacklisted User ids
+
+## Remove Your Data And Data Retention.
+
+- Even if you remove the bot from your Discord server, we store the data for around 30 days so that if you re add the bot you wont lose any configuration within 30 days of bot removal.
+- If you want to have it removed, you can have the rights to request the developer to do so. Once deleted, its not possible to
+- Contact us to remove your data
+
+## My Question is not in the list
+
+- Join our [support server](https://discord.gg/4V3wA8cUmE)
+- Server invite is invaild, Mail us
+- Mail - contact@carbonbot.tech
+
+
+## A warning will be announced in the Support server 3 days prior to policy changes.
+
+**Thank you for using our service**
+
+#### **Last Changed `20 May 2023, Thursday 10:59 PM`**
